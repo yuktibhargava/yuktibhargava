@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yukti 👋
 
-<!--
-**yuktibhargava/yuktibhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science student  
+📊 Aspiring Business Analyst  
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
+- SQL
+- Excel
+- Python (NPTEL)
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Build business analytics projects
+- Gain internship experience
+- Develop strong reporting & analysis skills
+
+### 📌 Upcoming Projects
+- SQL Sales Analysis
+- Excel Business Report
+- Power BI Dashboard
+- Python Data Analysis 
+
+📫 Connect with me on LinkedIn: (https://www.linkedin.com/in/yukti-bhargava-500420294/)
+
