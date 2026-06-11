@@ -1,17 +1,31 @@
 # Hi, I'm Yukti 👋
 
-🎓 B.Tech AI & Data Science student  
-📊 Aspiring Business Analyst  
+🎓 B.Tech Artificial Intelligence & Data Science Student
 
-### 🌱 Currently learning
-- SQL
-- Excel
-- Python (NPTEL)
-- Power BI
+📚 Currently Learning:
 
-### 🎯 Goals
-- Build business analytics projects
-- Gain internship experience
+* Python
+* Data Structures & Algorithms
+* Machine Learning
+* Artificial Intelligence
+* SQL
+
+🎯 Current Goals:
+
+* Build AI/ML Projects
+* Strengthen Problem Solving Skills
+* Prepare for GATE DA
+* Gain Internship Experience
+
+📌 Areas of Interest:
+
+* Machine Learning
+* Artificial Intelligence
+* Data Science
+* Natural Language Processing
+
+🚀 Learning one project at a time and documenting my journey on GitHub.
+
 - Develop strong reporting & analysis skills
 
 ### 📌 Upcoming Projects
