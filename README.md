@@ -26,13 +26,6 @@
 
 🚀 Learning one project at a time and documenting my journey on GitHub.
 
-- Develop strong reporting & analysis skills
-
-### 📌 Upcoming Projects
-- SQL Sales Analysis
-- Excel Business Report
-- Power BI Dashboard
-- Python Data Analysis 
 
 📫 Connect with me on LinkedIn: (https://www.linkedin.com/in/yukti-bhargava-500420294/)
 
